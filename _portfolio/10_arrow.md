@@ -1,8 +1,10 @@
 ---
-type: image
+type: image stock
+skill: Modeling / Shading / Lighting
+software: Maya / Arnold / Photoshop
 title: Arrows
 shortname: 10_arrow
 ---
 
-Simple image I made to test sell online. 
+Simple image I made to try and sell it on image stocks<br>
 It was sucessful :)

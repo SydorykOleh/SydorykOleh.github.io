@@ -1,5 +1,7 @@
 ---
 type: 270° animated movie
+skill: Shading / Lighting / Comp
+software: Maya / Arnold / Nuke
 title: Polar Dream
 year: 2017
 role: CG supervisor
@@ -8,4 +10,5 @@ link: https://www.attraktion.com/studios/polar-dream/
 shortname: 16_polardream
 ---
 
-Ride on submarine trough ocean, 
+Movie is about a ride on submarine trough arctic. 
+Shading and lighting for whole movie was done by me

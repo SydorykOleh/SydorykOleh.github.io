@@ -1,6 +1,8 @@
 ---
 type: personal work
-title: My first vehicle visualization
+skill: Modeling / Shading / Lighting
+software: Maya / Arnold / Photoshop
+title: First vehicle
 shortname: 03_vehicle
 ---
 

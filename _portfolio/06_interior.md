@@ -1,7 +1,9 @@
 ---
 type: personal project
+skill: Modeling / Shading / Lighting
+software: Maya / Arnold / Photoshop
 title: Interior
 shortname: 06_interior
 ---
 
-First interior visualization I did for myself
+Recreated my room in maya

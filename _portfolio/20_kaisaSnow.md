@@ -7,7 +7,9 @@ year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
 link: https://www.attraktion.com/studios/dive/
-shortname: 18_dive
+shortname: 20_kaisaSnow
+uniquepage : true 
+skip: true
 ---
 
 Short movie full with snow interaction. 

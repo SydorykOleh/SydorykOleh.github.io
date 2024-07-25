@@ -7,7 +7,8 @@ year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
 link: https://www.attraktion.com/studios/dive/
-shortname: 18_dive
+shortname: 26_naturaVision
+uniquepage : true 
 ---
 
 Short movie underwater with water FX

@@ -62,7 +62,7 @@ hr {
     width: 100%;
     object-fit:cover;
 
-    filter: grayscale(20%) brightness(1) drop-shadow(0 0 5px rgb(57,57,65));
+    filter: grayscale(20%) brightness(.95) drop-shadow(0 0 5px rgb(57,57,65));
 
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -71,14 +71,42 @@ hr {
 }
 .zoom:hover {
 
-    filter: grayscale(0%) brightness(1.1);
+    filter: grayscale(0%) brightness(1);
 
 
-    -moz-transform: scale(1.05);
-    -webkit-transform: scale(1.05);
-    -ms-transform: scale(1.05);
-    -o-transform: scale(1.05);
-    transform: scale(1.05);
+    #-moz-transform: scale(1.05);
+    #-webkit-transform: scale(1.05);
+    #-ms-transform: scale(1.05);
+    #-o-transform: scale(1.05);
+    #transform: scale(1.05);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    opacity: 1;
+    color: #000000;
+    text-shadow: 0 0 5px #aaaaaa;
+}
+.zoomportfolio {
+    width: 100%;
+    object-fit:cover;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+}
+.zoomportfolio:hover {
+
+    z-index: 10;
+
+    #-moz-transform: scale(1.1);
+    #-webkit-transform: scale(1.1);
+    #-ms-transform: scale(1.1);
+    #-o-transform: scale(1.1);
+    #transform: scale(1.1);
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;

@@ -1,8 +1,17 @@
 ---
 layout: default
 ---
-Type: {{ page.type }}<br>
-Year: {{ page.year }}<br>
-Company: {{ page.company }}<br>
-Role: {{ page.role }}<br>
+<h1>{{ page.title }}</h1>
+<br>
 {{ content }}
+Here are some screenshots:
+<br>
+{% capture gallery_path %}assets/images/portfolio/{{ page.shortname }}{% endcapture %}
+{% for image in site.static_files %}
+    {% if image.path contains gallery_path %}
+    
+    <a href="..{{image.path}}">
+        <img src="..{{image.path}}" class="zoomportfolio img-fluid" alt="">
+    </a>
+    {% endif %}
+{% endfor %}

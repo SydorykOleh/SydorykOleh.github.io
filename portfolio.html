@@ -1,21 +1,31 @@
 ---
 title: Portfolio
 header: Portfolio
-context: Fancy images
 ---
 <div class="row flex-column-reverse">
-
 	{% for portfolio in site.portfolio %}
-		<br>
-		<div class="portfolioDescription">{{ portfolio.content }}</div>
-		<div class="portfolioSmall">Skills: {{ portfolio.skill }}</div>
-		<div class="portfolioSmall">Software: {{ portfolio.software }}</div>
-		<div class="portfolioSmall">Project type: {{ portfolio.type }}</div>
-		<div class="col-lg-12 col-md-12 col-xs-12 thumb">
-			<div class="fancybox" rel="ligthbox">
-				<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">
+		{% if portfolio.skip != true %}	
+			<br>
+			<div class="portfolioDescription">{{ portfolio.shortcontent }}</div>
+			<div class="portfolioSmall">Skills: {{ portfolio.skill }}</div>
+			<div class="portfolioSmall">Software: {{ portfolio.software }}</div>
+			<div class="portfolioSmall">Project type: {{ portfolio.type }}</div>
+			<div class="col-lg-12 col-md-12 col-xs-12 thumb">
+				<div class="fancybox" rel="ligthbox">
+					
+				{% if portfolio.uniquepage == true %}
+					<a href="portfolio/{{portfolio.shortname}}">
+						<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">
+					</a>
+				{% endif %}
+				{% if portfolio.uniquepage != true %}
+					<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">
+				{% endif %}
+				</div>
 			</div>
-		</div>
-		<div class="portfolioTitle">{{ portfolio.title }}</div>
+			<div class="portfolioTitle">{{ portfolio.title }}</div>
+		{% endif %}
 	{% endfor %}
+
+
 </div>

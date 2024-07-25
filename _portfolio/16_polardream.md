@@ -8,6 +8,7 @@ role: CG supervisor
 company: Attraktion! GmbH
 link: https://www.attraktion.com/studios/polar-dream/
 shortname: 16_polardream
+uniquepage : true 
 ---
 
 Movie is about a ride on submarine trough arctic. 

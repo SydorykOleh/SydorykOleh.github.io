@@ -1,7 +1,7 @@
 ---
 type: short animated movie
 skill: Shading / Lighting / Rendering / Comp
-software: Maya / Arnold / Nuke / Houdini
+software: Maya / Redshift / Nuke / Houdini
 title: Danfoss
 year: 2017
 role: CG supervisor

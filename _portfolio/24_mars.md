@@ -11,4 +11,7 @@ shortname: 24_mars
 uniquepage : true 
 ---
 
-movie about Mars. My job was to build Mars environments, setup lighting and render with 270° cameras
+Flyover movie on main interest points on Mars. <br>
+My job was to build Mars landscapes using houdini.
+Scatter assets using PCG. <br> 
+Setup lighting and render.

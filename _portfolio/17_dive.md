@@ -12,5 +12,5 @@ uniquepage : true
 ---
 
 
-Movie is about a ride on submarine trough ocean. 
-Shading and lighting for whole movie was done by me
+Movie is about a ride on submarine through ocean. 
+My job was to assemeble environment, create materials, setup lighting/render and comp them into final movie.

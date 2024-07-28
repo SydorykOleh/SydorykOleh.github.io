@@ -11,5 +11,5 @@ shortname: 16_polardream
 uniquepage : true 
 ---
 
-Movie is about a ride on submarine trough arctic. 
-Shading and lighting for whole movie was done by me
+Movie is about a ride on submarine through arctic. 
+My job was to assemeble environment, create materials, setup lighting/render and comp them into final movie.

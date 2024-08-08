@@ -1,5 +1,5 @@
 ---
-type: image stock
+type: Image
 skill: Modeling / Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: Glass bottle

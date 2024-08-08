@@ -1,5 +1,5 @@
 ---
-type: product visualization
+type: Product visualization
 skill: Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: Hush smart earplugs

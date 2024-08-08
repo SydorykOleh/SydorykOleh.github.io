@@ -1,5 +1,5 @@
 ---
-type: stereo intro sequence
+type: Intro sequence
 skill: Modeling / Shading / Lighting / Comp
 software: Maya / Arnold / Nuke
 title: Attraktion! Intro

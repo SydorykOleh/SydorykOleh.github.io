@@ -1,5 +1,5 @@
 ---
-type: personal work
+type: Personal project
 skill: Photoshop
 software: Photoshop
 title: Goal

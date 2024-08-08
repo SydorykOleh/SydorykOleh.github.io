@@ -1,5 +1,5 @@
 ---
-type: short animated movie
+type: Short animated movie
 skill: Modeling / Shading / Lighting / Comp
 software: Maya / Arnold / Nuke
 title: Under the Sea

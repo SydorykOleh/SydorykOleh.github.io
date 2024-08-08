@@ -1,12 +1,11 @@
 ---
-type: short animated movie
+type: Short animated movie
 skill: Shading / Lighting / Rendering / Comp
 software: Maya / Arnold / Nuke
 title: Kaisa Water
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 19_kaisaWater
 uniquepage : true 
 skip: true

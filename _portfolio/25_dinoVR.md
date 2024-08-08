@@ -6,9 +6,12 @@ title: DinoVR
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 25_dinoVR
 uniquepage : true 
 ---
 
-VR movie
+Short animated movie for VR glasses.<br> 
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Figure out how to render properly VR content from Unreal.</li>
+</ul> 

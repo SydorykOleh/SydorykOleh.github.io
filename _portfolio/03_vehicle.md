@@ -1,5 +1,5 @@
 ---
-type: personal work
+type: Personal project
 skill: Modeling / Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: First vehicle

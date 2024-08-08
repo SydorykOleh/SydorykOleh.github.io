@@ -1,5 +1,5 @@
 ---
-type: image stock
+type: image
 skill: Modeling / Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: Arrows

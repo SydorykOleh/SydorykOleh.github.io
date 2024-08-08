@@ -6,9 +6,13 @@ title: Immersium
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 23_immersium
-uniquepage : true 
+uniquepage : false 
 ---
-
-Immersive movie. My job was to render movie with multiple cameras and comp with FX
+Short Immersium movie for IMMERSIUM:WIEN
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Research and develop proper camera setup for projection</li>
+  <li>Rendering and compositing</li>
+</ul> 
+<br>

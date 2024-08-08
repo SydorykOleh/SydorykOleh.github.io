@@ -6,10 +6,14 @@ title: Polar Dream
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/polar-dream/
 shortname: 16_polardream
-uniquepage : true 
+uniquepage : false 
 ---
 
-Movie is about a ride on submarine through arctic. 
-My job was to assemeble environment, create materials, setup lighting/render and comp them into final movie.
+Short movie about a ride on submarine through arctic. 
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Assemble environments</li>
+  <li>Optimize lighting/render workflow</li>
+  <li>Shading, Lighting, and Compositing</li>
+</ul> 

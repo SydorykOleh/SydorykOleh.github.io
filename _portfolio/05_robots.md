@@ -1,5 +1,5 @@
 ---
-type: personal project
+type: Personal project
 skill: Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: Robots

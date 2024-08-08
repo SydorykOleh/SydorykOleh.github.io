@@ -1,5 +1,5 @@
 ---
-type: short animated movie
+type: Short animated movie
 skill: Shading / Lighting / Rendering / Comp
 software: Maya / Arnold / Nuke
 title: the Legend of the Lost Pearl
@@ -10,8 +10,10 @@ shortname: 15_thelostpearl
 uniquepage : true 
 shortcontent: Movie with ~130 shots
 ---
-
-My job was to build lighting and rendering worflow for whole movie. 
-All materials where created in Arnold inside Maya. 
-Compositing was done in Nuke
+Short CG movie for Yas Water World, Abu Dhabi, UAE <br>
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Develop lighting/render workflow</li>
+  <li>Shading, Lighting, and Compositing for over ~130 shots</li>
+</ul> 
 <br>

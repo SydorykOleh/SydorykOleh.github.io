@@ -1,14 +1,19 @@
 ---
-type: short animated movie
+type: Short animated movie
 skill: Shading / Lighting / Rendering / Comp
 software: Maya / Redshift / Nuke / Houdini
 title: Danfoss
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 18_danfoss
-uniquepage : true 
+uniquepage : true
 ---
 
 Short movie fully looped, where we go underwater, witness ice breaking and bo back to original position.
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Assemble environments</li>
+  <li>Optimize lighting/render workflow</li>
+  <li>Shading, Lighting, and Compositing</li>
+</ul> 

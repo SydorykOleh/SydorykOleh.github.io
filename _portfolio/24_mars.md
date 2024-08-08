@@ -1,17 +1,18 @@
 ---
-type: short animated movie
+type: Short animated movie
 skill: Environment / Shading / Lighting
 software: Houdini / Unreal
 title: Mars
 year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 24_mars
 uniquepage : true 
 ---
-
-Flyover movie on main interest points on Mars. <br>
-My job was to build Mars landscapes using houdini.
-Scatter assets using PCG. <br> 
-Setup lighting and render.
+Flyover VR movie on main interest points on Mars. <br>
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Build Mars landscapes using houdini</li>
+  <li>Scatter assets using PCG</li>
+  <li>Lighting and rendering</li>
+</ul> 

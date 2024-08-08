@@ -2,10 +2,15 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+<div class="portfolioSmall">Project type: {{ page.type }}</div>
+<div class="portfolioSmall">Role: {{ page.role }}</div>
+<div class="portfolioSmall">Software: {{ page.software }}</div>
+<div class="portfolioSmall">Skills: {{ page.skill }}</div>
+
 <br>
+<h2>Description:</h2>
 {{ content }}
-Here are some screenshots:
-<br>
+<h2>Screenshots:</h2>
 {% capture gallery_path %}assets/images/portfolio/{{ page.shortname }}{% endcapture %}
 {% for image in site.static_files %}
     {% if image.path contains gallery_path %}

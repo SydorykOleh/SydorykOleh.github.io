@@ -1,14 +1,20 @@
 ---
-type: short animated movie
-skill: Shading / Lighting / Comp
-software: Maya / Redshift / Nuke
+type: Short animated movie
+skill: Shading / Lighting / FX / Comp
+software: Maya / EmberGen / Redshift / Nuke
 title: Natura Vision
-year: 2017
+year: 2024
 role: CG supervisor
 company: Attraktion! GmbH
-link: https://www.attraktion.com/studios/dive/
 shortname: 26_naturaVision
 uniquepage : true 
+link:
 ---
-
-Short movie underwater with water FX
+Short movie for projection at Coral Kingdom at Loro Parque at Tenerife. <br>
+<h3>Responsibilities: </h3>
+ <ul>
+  <li>Figure our proper camera projection.</li>
+  <li>Integrate heavy water FX into animation scene.</li>
+  <li>Create smoke FX in EmberGen and particle simulation in Unreal.</li>
+  <li>Shading, lighting, and compositing.</li>
+</ul> 

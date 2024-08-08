@@ -1,5 +1,5 @@
 ---
-type: youtube channel
+type: Short movies for youtube channel
 skill: Shading / Lighting
 software: Maya / Arnold
 title: Dave and Ava

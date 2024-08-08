@@ -1,5 +1,5 @@
 ---
-type: freelance work
+type: Product visualisation
 skill: Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: Nexus visualization

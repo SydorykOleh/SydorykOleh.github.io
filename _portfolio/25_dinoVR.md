@@ -3,11 +3,11 @@ type: VR animated movie
 skill: Shading / Lighting
 software: Unreal
 title: DinoVR
-year: 2017
+year: 2024
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 25_dinoVR
-uniquepage : true 
+uniquepage : false 
 ---
 
 Short animated movie for VR glasses.<br> 

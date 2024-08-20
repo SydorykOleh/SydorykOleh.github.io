@@ -3,7 +3,7 @@ type: Short animated movie
 skill: Shading / Lighting / Rendering / Comp
 software: Maya / Arnold / Nuke
 title: Kaisa Snow
-year: 2017
+year: 2021
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 20_kaisaSnow

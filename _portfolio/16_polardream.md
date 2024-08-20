@@ -3,7 +3,7 @@ type: 270° animated movie
 skill: Shading / Lighting / Comp
 software: Maya / Arnold / Nuke
 title: Polar Dream
-year: 2017
+year: 2019
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 16_polardream

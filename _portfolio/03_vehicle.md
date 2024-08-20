@@ -4,6 +4,7 @@ skill: Modeling / Shading / Lighting
 software: Maya / Arnold / Photoshop
 title: First vehicle
 shortname: 03_vehicle
+year: 2013
 ---
 
 First vehicle modeling and visualization. Fun times.

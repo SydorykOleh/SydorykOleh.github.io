@@ -3,7 +3,7 @@ type: Short animated movie
 skill: Research / Shading / Lighting / Rendering
 software: Maya / Unreal
 title: Sunny Bunny
-year: 2017
+year: 2022
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 22_sunnybunny

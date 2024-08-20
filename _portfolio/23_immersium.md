@@ -3,7 +3,7 @@ type: 360° animated movie
 skill: Shading / Lighting / Comp
 software: Unreal / Nuke
 title: Immersium
-year: 2017
+year: 2023
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 23_immersium

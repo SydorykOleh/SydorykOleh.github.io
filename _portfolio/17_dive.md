@@ -3,7 +3,7 @@ type: 270° animated movie
 skill: Shading / Lighting / Comp
 software: Maya / Arnold / Nuke
 title: Dive
-year: 2017
+year: 2020
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 17_dive

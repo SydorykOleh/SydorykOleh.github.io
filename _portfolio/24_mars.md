@@ -3,7 +3,7 @@ type: Short animated movie
 skill: Environment / Shading / Lighting
 software: Houdini / Unreal
 title: Mars
-year: 2017
+year: 2023
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 24_mars

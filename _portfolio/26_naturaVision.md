@@ -11,6 +11,14 @@ uniquepage : true
 link:
 ---
 Short movie for projection at Coral Kingdom at Loro Parque at Tenerife. <br>
+
+Animal lookdev examples:
+<iframe width="690" height="690" src="https://www.youtube.com/embed/c1SIWbM_L_Q?si=FMpsgXiWzCgcM5vb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="690" height="690" src="https://www.youtube.com/embed/iVKYdtyE1Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="690" height="690" src="https://www.youtube.com/embed/6ZiBaw5G3Z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="690" height="690" src="https://www.youtube.com/embed/DkiULDksfIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="690" height="690" src="https://www.youtube.com/embed/zbtuxPzjAAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h3>Responsibilities: </h3>
  <ul>
   <li>Figure our proper camera projection.</li>

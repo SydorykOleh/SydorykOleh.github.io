@@ -1,9 +1,7 @@
 
 - name: RESUME
-  link: /resume.html
+  link: /
 - name: PORTFOLIO
   link: /portfolio.html
 #- name: CODELAB
 #  link: /codelab.html
-- name: ABOUT
-  link: /

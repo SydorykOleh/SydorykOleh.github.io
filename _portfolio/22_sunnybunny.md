@@ -15,4 +15,5 @@ Short movie for water park in Austria.
  <ul>
   <li>Research and develop lighting/rendering workflow inside Unreal</li>
   <li>Shading, Lighting, and Rendering for over 50 shots</li>
+  <li>Create FX using Niagara</li>
 </ul> 

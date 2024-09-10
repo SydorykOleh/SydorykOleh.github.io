@@ -8,6 +8,7 @@ role: CG supervisor
 company: Attraktion! GmbH
 shortname: 24_mars
 uniquepage : true 
+screenshots: true
 ---
 Flyover VR movie on main interest points on Mars. <br>
 <h3>Responsibilities: </h3>

@@ -6,6 +6,7 @@ title: Harley motorcycle
 shortname: 07_motorcycle
 uniquepage : true 
 year: 2014
+screenshots: true
 ---
 
 Modeled from 0, rendered with Maya / V-ray + Photoshop

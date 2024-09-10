@@ -8,6 +8,7 @@ role: CG supervisor
 company: Attraktion! GmbH
 shortname: 22_sunnybunny
 uniquepage : true 
+screenshots: true
 ---
 
 Short movie for water park in Austria.

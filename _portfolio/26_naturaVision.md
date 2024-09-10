@@ -8,6 +8,7 @@ role: CG supervisor
 company: Attraktion! GmbH
 shortname: 26_naturaVision
 uniquepage : true 
+screenshots: true
 link:
 ---
 Short movie for projection at Coral Kingdom at Loro Parque at Tenerife. <br>

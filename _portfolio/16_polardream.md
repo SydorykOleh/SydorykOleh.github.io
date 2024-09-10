@@ -7,7 +7,8 @@ year: 2019
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 16_polardream
-uniquepage : false 
+uniquepage : true 
+screenshots: true
 ---
 
 Short movie about a ride on submarine through arctic. 

@@ -8,15 +8,18 @@ layout: default
 <div class="portfolioSmall">Skills: {{ page.skill }}</div>
 
 <br>
-<h2>Description:</h2>
+<h3>Description:</h3>
 {{ content }}
-<h2>Screenshots:</h2>
-{% capture gallery_path %}assets/images/portfolio/{{ page.shortname }}{% endcapture %}
-{% for image in site.static_files %}
-    {% if image.path contains gallery_path %}
-    
-    <a href="..{{image.path}}">
-        <img src="..{{image.path}}" class="zoomportfolio img-fluid" alt="">
-    </a>
-    {% endif %}
-{% endfor %}
+
+{% if page.screenshots == true %}
+    <h3>Screenshots:</h3>
+    {% capture gallery_path %}assets/images/portfolio/{{ page.shortname }}{% endcapture %}
+    {% for image in site.static_files %}
+        {% if image.path contains gallery_path %}
+        
+        <a href="..{{image.path}}">
+            <img src="..{{image.path}}" class="zoomportfolio img-fluid" alt="">
+        </a>
+        {% endif %}
+    {% endfor %}
+{% endif %}

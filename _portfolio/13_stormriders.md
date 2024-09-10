@@ -7,7 +7,19 @@ year: 2017
 role: CG supervisor
 company: Attraktion! GmbH
 shortname: 13_stormriders
-uniquepage: false
+uniquepage: true
+screenshots: false
 ---
 
-Reworked multiple shots for old movie
+Reworked multiple shots for old movie.
+
+Compositing steps:
+<br>
+<a href="../assets/images/portfolio/13_stormriders/CompositingSteps.gif">
+    <img src="../assets/images/portfolio/13_stormriders/CompositingSteps.gif" class="zoomportfolio img-fluid" alt="">
+</a>
+Available render layers:
+<br>
+<a href="../assets/images/portfolio/13_stormriders/RenderLayers.gif">
+    <img src="../assets/images/portfolio/13_stormriders/RenderLayers.gif" class="zoomportfolio img-fluid" alt="">
+</a>

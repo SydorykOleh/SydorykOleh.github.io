@@ -8,6 +8,7 @@ role: CG supervisor
 company: Attraktion! GmbH
 shortname: 18_danfoss
 uniquepage : true
+screenshots: true
 ---
 
 Short movie fully looped, where we go underwater, witness ice breaking and bo back to original position.

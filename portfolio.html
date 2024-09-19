@@ -2,17 +2,17 @@
 title: Portfolio
 header: Portfolio
 ---
+<h2 style="text-align: center;">REEL</h2>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 55%">
+    <iframe style="position: absolute;width: 100%;height: 100%;left: 0;top: 0;" src="https://www.youtube.com/embed/57tYajrnrwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+<h2 style="text-align: center;">PROJECTS</h2>
 <div class="row flex-column-reverse">
 	{% for portfolio in site.portfolio %}
 		{% if portfolio.skip != true %}	
-			<br>
-			<div class="portfolioDescription">{{ portfolio.shortcontent }}</div>
-			<div class="portfolioSmallDescription">Year: {{ portfolio.year }}</div>
-			<div class="portfolioSmallDescription">Skills: {{ portfolio.skill }}</div>
-			<div class="portfolioSmallDescription">Software: {{ portfolio.software }}</div>
-			<div class="col-lg-12 col-md-12 col-xs-12 thumb">
-				<div class="fancybox" rel="ligthbox">
-					
+			<div class="col-lg-12 col-md-12 col-xs-12 thumb" style="margin-bottom: 2%;">
+				<div class="fancybox" rel="ligthbox">					
 				{% if portfolio.uniquepage == true %}
 					<a href="portfolio/{{portfolio.shortname}}">
 						<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">
@@ -23,7 +23,6 @@ header: Portfolio
 				{% endif %}
 				</div>
 			</div>
-			<div class="portfolioTitle">{{ portfolio.title }}</div>
 		{% endif %}
 	{% endfor %}
 

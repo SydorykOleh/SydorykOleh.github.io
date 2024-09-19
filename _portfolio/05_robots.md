@@ -6,6 +6,7 @@ title: Robots
 shortname: 05_robots
 header: Robots
 year: 2014
+skip: true
 ---
 
 Lighting practice

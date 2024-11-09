@@ -4,7 +4,7 @@ skill: Environment / Shading / Lighting
 software: Houdini / Unreal
 title: Mars
 year: 2023
-role: CG supervisor
+role: Lead Lighting Artist
 company: Attraktion! GmbH
 shortname: 24_mars
 uniquepage : true 

@@ -4,7 +4,7 @@ skill: Shading / Lighting / Comp
 software: Unreal / Nuke
 title: Immersium
 year: 2023
-role: CG supervisor
+role: Lead Compositing Artist
 company: Attraktion! GmbH
 shortname: 23_immersium
 uniquepage : false 

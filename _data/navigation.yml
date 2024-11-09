@@ -1,8 +1,10 @@
 
 - name: EXPERIENCE
   link: /experience.html
-- name: PORTFOLIO
-  link: /portfolio.html
+- name: MOVIES
+  link: /movies.html
+- name: VISUALIZATION
+  link: /visualization.html
 #- name: CODELAB
 #  link: /codelab.html
 - name: ABOUT

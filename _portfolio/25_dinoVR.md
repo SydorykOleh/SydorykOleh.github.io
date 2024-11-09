@@ -4,7 +4,7 @@ skill: Shading / Lighting
 software: Unreal
 title: DinoVR
 year: 2024
-role: CG supervisor
+role: Lighting Artist
 company: Attraktion! GmbH
 shortname: 25_dinoVR
 uniquepage : false 

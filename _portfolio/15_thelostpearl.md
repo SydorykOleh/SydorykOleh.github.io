@@ -4,7 +4,7 @@ skill: Shading / Lighting / Rendering / Comp
 software: Maya / Arnold / Nuke
 title: the Legend of the Lost Pearl
 year: 2018
-role: CG supervisor
+role: Lead Lighting & Compositing Artist
 company: Attraktion! GmbH
 shortname: 15_thelostpearl
 uniquepage : true 

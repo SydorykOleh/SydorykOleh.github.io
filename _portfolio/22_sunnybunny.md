@@ -4,7 +4,7 @@ skill: Research / Shading / Lighting / Rendering
 software: Maya / Unreal
 title: Sunny Bunny
 year: 2022
-role: CG supervisor
+role: Lead Lighting Artist
 company: Attraktion! GmbH
 shortname: 22_sunnybunny
 uniquepage : true 

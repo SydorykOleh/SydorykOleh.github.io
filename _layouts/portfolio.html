@@ -3,12 +3,14 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <div class="portfolioSmall">Project type: {{ page.type }}</div>
-<div class="portfolioSmall">Role: {{ page.role }}</div>
+<div class="portfolioSmall">Year: {{ page.year }}</div>
+{% if page.product != true %}
+    <div class="portfolioSmall">Role: {{ page.role }}</div>
+{% endif %}
 <div class="portfolioSmall">Software: {{ page.software }}</div>
 <div class="portfolioSmall">Skills: {{ page.skill }}</div>
 
 <br>
-<h3>Description:</h3>
 {{ content }}
 
 {% if page.screenshots == true %}

@@ -4,7 +4,7 @@ skill: Shading / Lighting / Rendering / Comp
 software: Maya / Arnold / Nuke
 title: Storm Riders
 year: 2017
-role: CG supervisor
+role: Lighting & Compositing Artist
 company: Attraktion! GmbH
 shortname: 13_stormriders
 uniquepage: true

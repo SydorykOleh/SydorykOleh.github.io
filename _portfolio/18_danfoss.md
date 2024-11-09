@@ -4,7 +4,7 @@ skill: Shading / Lighting / Rendering / Comp
 software: Maya / Redshift / Nuke / Houdini
 title: Danfoss
 year: 2021
-role: CG supervisor
+role: Lead Lighting & Compositing Artist
 company: Attraktion! GmbH
 shortname: 18_danfoss
 uniquepage : true

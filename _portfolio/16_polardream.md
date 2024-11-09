@@ -4,7 +4,7 @@ skill: Shading / Lighting / Comp
 software: Maya / Arnold / Nuke
 title: Polar Dream
 year: 2019
-role: CG supervisor
+role: Lead Lighting & Compositing Artist
 company: Attraktion! GmbH
 shortname: 16_polardream
 uniquepage : true 

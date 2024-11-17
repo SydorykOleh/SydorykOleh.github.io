@@ -2,7 +2,7 @@
 type: Product Visualization
 skill: Modeling / Texturing / Lighting / Comp
 software: Houdini / Nuke
-title: Ear plugs
+title: Earplug packaging
 year: 2024
 shortname: 30_earplug
 uniquepage : true 

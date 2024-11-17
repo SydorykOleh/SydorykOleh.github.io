@@ -2,7 +2,7 @@
 type: Product Visualization
 skill: Modeling / Texturing / Lighting / Comp
 software: Houdini / Nuke
-title: Hot Sause
+title: Hot sause packaging
 year: 2024
 shortname: 29_hotsause
 uniquepage : true 

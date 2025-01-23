@@ -1,16 +1,21 @@
-
-
-
-
 <img src="../assets/images/test_velvet/EPISODE_JMW_Velvet_MarineBlue_roomA_Angle_param1-0_param2-0_param3-0.4.jpeg" id="image"  alt="">
 <div class="slider">
 	<input type="range" min="0" max="4" value="1" class="slider" id="slider1">
 </div>
+<div id="text1">
+	Param1 - 0.5
+</div>
 <div class="slider">
 	<input type="range" min="0" max="4" value="1" class="slider" id="slider2">
 </div>
+<div id="text2">
+	Param2 - 0.5
+</div>
 <div class="slider">
 	<input type="range" min="0" max="4" value="1" class="slider" id="slider3">
+</div>
+<div id="text3">
+	Param3 - 0.5
 </div>
 
 <script>
@@ -42,7 +47,16 @@
 	slider2 = document.getElementById("slider2");
 	slider3 = document.getElementById("slider3");
 
+	text1 = document.getElementById("text1");
+	text2 = document.getElementById("text2");
+	text3 = document.getElementById("text3");
+
 	var isSliding = false;
+
+	
+	text1.innerHTML = "Parameter 1 - " + slider1.value;
+	text2.innerHTML = "Parameter 2 - " + slider2.value;
+	text3.innerHTML = "Parameter 3 - " + slider3.value;
 
 	slider1.addEventListener('change',(e)=>{
     	updateString();
@@ -67,6 +81,9 @@
 
 	function updateString(){
 		param_string = "param1-" + param1.get(slider1.value) + "_param2-" + param2.get(slider2.value) + "_param3-" + param3.get(slider3.value);
+		text1.innerHTML = "Parameter 1 - " + slider1.value;
+		text2.innerHTML = "Parameter 2 - " + slider2.value;
+		text3.innerHTML = "Parameter 3 - " + slider3.value;
 		image.src = "../assets/images/test_velvet/EPISODE_JMW_Velvet_MarineBlue_roomA_Angle_" + param_string + ".jpeg";
 	}
 </script>

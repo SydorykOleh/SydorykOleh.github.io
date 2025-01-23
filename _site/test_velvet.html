@@ -1,0 +1,72 @@
+
+
+
+
+<img src="../assets/images/test_velvet/EPISODE_JMW_Velvet_MarineBlue_roomA_Angle_param1-0_param2-0_param3-0.4.jpeg" id="image"  alt="">
+<div class="slider">
+	<input type="range" min="0" max="4" value="1" class="slider" id="slider1">
+</div>
+<div class="slider">
+	<input type="range" min="0" max="4" value="1" class="slider" id="slider2">
+</div>
+<div class="slider">
+	<input type="range" min="0" max="4" value="1" class="slider" id="slider3">
+</div>
+
+<script>
+	param1 = new Map();
+	param2 = new Map();
+	param3 = new Map();
+
+	param1.set("0", "0");
+	param1.set("1", "0.25");
+	param1.set("2", "0.5");
+	param1.set("3", "0.75");
+	param1.set("4", "1");
+""
+	param2.set("0", "0");
+	param2.set("1", "0.25");
+	param2.set("2", "0.5");
+	param2.set("3", "0.75");
+	param2.set("4", "1");
+""
+	param3.set("0", "0.4");
+	param3.set("1", "0.6");
+	param3.set("2", "0.8");
+	param3.set("3", "1");
+	param3.set("4", "3");
+
+	image = document.getElementById("image");
+
+	slider1 = document.getElementById("slider1");
+	slider2 = document.getElementById("slider2");
+	slider3 = document.getElementById("slider3");
+
+	var isSliding = false;
+
+	slider1.addEventListener('change',(e)=>{
+    	updateString();
+  	});	
+	slider1.addEventListener('input',(e)=>{
+    	updateString();
+  	});	
+	
+	slider2.addEventListener('change',(e)=>{
+    	updateString();
+  	});	
+	slider2.addEventListener('input',(e)=>{
+    	updateString();
+  	});	
+	
+	slider3.addEventListener('change',(e)=>{
+    	updateString();
+  	});	
+	slider3.addEventListener('input',(e)=>{
+    	updateString();
+  	});
+
+	function updateString(){
+		param_string = "param1-" + param1.get(slider1.value) + "_param2-" + param2.get(slider2.value) + "_param3-" + param3.get(slider3.value);
+		image.src = "../assets/images/test_velvet/EPISODE_JMW_Velvet_MarineBlue_roomA_Angle_" + param_string + ".jpeg";
+	}
+</script>

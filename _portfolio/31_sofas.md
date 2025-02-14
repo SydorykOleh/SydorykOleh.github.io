@@ -39,7 +39,7 @@ Some sofas also required different variations to show how mechanism works.</p>
 
 
 <p>
-Usually these renders would be a big task and complicated task, but using Houdini Solaris I was able to build a system that was easy to manage and make any adjustments for any particular sofa/angle/color configuration. I also build a simple system to automatically assemble scene and center camera around sofa with proper parameters for each camera angle. </p>
+Usually these renders would be a big and complicated task, but using Houdini Solaris I was able to build a system that was easy to manage and make any adjustments for any particular sofa/angle/color configuration. I also build a simple system to automatically assemble scene and center camera around sofa with proper parameters for each camera angle. </p>
 Here is example of me switching between different models, camera agles and sets:
 <br>
 <video width="690" height="690" controls>

@@ -53,6 +53,9 @@ Here is example of me switching between different models, camera agles and sets:
 <p>Finally here is comp setup for final image assembly: </p>
 <img src="../assets/images/portfolio/31_sofas/HoudiniComp.png" class="zoomportfolio img-fluid" alt="">
 
-I was able to optimize render times by rendering unique part of the image only once and combining all parts in compositing. 
-<br>
-With this setup I was able to output properly organized and named files.
+<p>I was able to optimize render times by rendering unique part of the image only once and combining all parts in compositing.</p>
+
+<p>With this setup I was able to output properly organized and named files.</p>
+
+<p>In addition to all this, I also rendered top view for each sofa, so that it can be used in dimensions image: </p>
+<img src="../assets/images/portfolio/31_sofas/dimensions_example.jpg" class="zoomportfolio img-fluid" alt="">

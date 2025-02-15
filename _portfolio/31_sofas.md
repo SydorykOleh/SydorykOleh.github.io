@@ -7,7 +7,6 @@ year: 2024
 shortname: 31_sofas
 uniquepage : true 
 product: true
-skip: true
 ---
 <p>
 Client requested high quality images for whole line of sofas.

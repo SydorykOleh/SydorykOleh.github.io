@@ -8,6 +8,7 @@ shortname: 32_fans
 uniquepage : true 
 product: true
 skip: true
+usepng: true
 ---
 <p>
     Client requested high quality videos of rotating fans.

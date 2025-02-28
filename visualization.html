@@ -9,10 +9,10 @@ header: Product Visualization
 	{% if portfolio.product == true %}	
 	<div class="col-lg-12 col-md-12 col-xs-12 thumb" style="margin-bottom: 2%;">
 		<div class="fancybox" rel="ligthbox">					
-		{% if portfolio.uniquepage == true %}
+		{% if portfolio.uniquepage == true %}	
 			<a href="portfolio/{{portfolio.shortname}}">
 				<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">
-			</a>
+			</a>	
 		{% endif %}
 		{% if portfolio.uniquepage != true %}
 			<img src="../assets/images/portfolio/preview/{{ portfolio.shortname }}.jpg" class="zoom img-fluid"  alt="">

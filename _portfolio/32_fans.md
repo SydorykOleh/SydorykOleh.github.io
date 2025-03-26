@@ -7,7 +7,7 @@ year: 2024
 shortname: 32_fans
 uniquepage : true 
 product: true
-skip: false
+skip: true
 usepng: true
 ---
 <p>
